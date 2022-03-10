@@ -1,0 +1,8 @@
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\YuGiOhDatabase.exe
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\YuGiOhDatabase.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\YuGiOhDatabase.deps.json
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\YuGiOhDatabase.runtimeconfig.json
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\YuGiOhDatabase.pdb
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\System.Net.Http.Formatting.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.Bson.dll

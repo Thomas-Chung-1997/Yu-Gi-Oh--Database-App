@@ -1,0 +1,49 @@
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.exe
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.deps.json
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.runtimeconfig.json
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.runtimeconfig.dev.json
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.dll
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.pdb
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.AssemblyReference.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase_MarkupCompile.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase_MarkupCompile.lref
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.g.resources
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.AssemblyInfoInputs.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.AssemblyInfo.cs
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.dll
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.pdb
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.genruntimeconfig.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.Properties.Resources.resources
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.GenerateResource.cache
+C:\Users\Thomas Chung\Desktop\VS Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.CopyComplete
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.exe
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.deps.json
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.runtimeconfig.json
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.runtimeconfig.dev.json
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\YuGiOhDatabase.pdb
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase_MarkupCompile.cache
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase_MarkupCompile.lref
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.g.resources
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.Properties.Resources.resources
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.GenerateResource.cache
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.AssemblyInfoInputs.cache
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.AssemblyInfo.cs
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.csproj.CopyComplete
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.dll
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.pdb
+C:\Users\Thomas Chung\Desktop\VS Code\Yu-Gi-Oh! Database App\App\Code\YuGiOhDatabase\obj\Debug\netcoreapp3.1\YuGiOhDatabase.genruntimeconfig.cache
